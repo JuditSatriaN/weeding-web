@@ -1,2 +1,2 @@
 # weeding-web
-Create weeding website on golang
+Frontend side of the digital invitation platform, svede.id, including : company profile, login/register page, client area and payment page. Made with React.js.
